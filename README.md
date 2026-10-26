@@ -191,7 +191,7 @@ If you use this repository, please cite the associated paper:
 @article{mozo2026balancing,
   title={Balancing Realism and Evasion in GAN-Based Adversarial Generation},
   author={Mozo, Alberto and Karamchandani, Amit and de la Cal, Luis},
-  journal={PeerJ Computer Science},
+  journal={under review},
   year={2026}
 }
 ```
